@@ -19,7 +19,9 @@ git clone https://github.com/liavr6/subtitle-sentiment-analyzer.git
 cd subtitle-sentiment-analyzer
 ```
 # Install dependencies
+```bash
 pip install transformers matplotlib nltk
+```
 You may also need to download the NLTK tokenizer:
 ```bash
 import nltk
