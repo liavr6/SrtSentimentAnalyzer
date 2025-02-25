@@ -35,6 +35,7 @@ python sentiment_analysis.py
 The script prints the subtitle text with its start time and the detected emotion:
 
 [00:00:05] Hello there! | joy
+
 [00:01:20] I'm feeling sad... | sadness
 A graph is generated showing the sentiment trend:
 
